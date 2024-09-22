@@ -1,7 +1,7 @@
 # Jogo do Número Secreto
 
 ## 🗒️ Informações
-Este é o projeto inicial do curso de Lógica de Programação, feito com base em todas as instruções passadas. Consiste em um jogo cujo objetivo é descobrir o **Número Secreto**, que será gerado de forma semi-aleatória. Ele Possui um sistema capaz de informar ao jogador quando o mesmo estiver certo e quando estiver errado. Caso esteja certo, uma mensagem o parabenizando será expressa na tela. No caso de um erro, será informado para ele que está incorreto, e indicará para o jogador se tal número é maior ou menor do que aquele escolhido(Vale lembrar que há um sistema de contagem de tentativas, que são informadas a cada erro, ou quando houver um acerto).
+Este é o projeto inicial do curso de Lógica de Programação, feito com base em todas as instruções passadas. Consiste em um jogo cujo objetivo é descobrir o **Número Secreto**, que será gerado de forma semi-aleatória. Ele Possui um sistema capaz de informar ao jogador quando o mesmo estiver certo e quando estiver errado. Caso esteja certo, uma mensagem o parabenizando será expressa na tela. No caso de um erro, será informado para ele que está incorreto, e indicará para o jogador se tal número é maior ou menor do que aquele escolhido(Vale lembrar que há um sistema de contagem de tentativas, que são informadas quando houver um acerto).
 Além disso, o jogo conta com a possibilidade de continuar jogando mesmo após responder corretamente, utilizando o botão de "Novo Jogo". Este botão possibilita que um novo **Número Secreto** seja gerado e que um novo jogo seja iniciado, mas somente após responder corretamente.
 
 ## ⚙️ Tecnologias utilizadas
