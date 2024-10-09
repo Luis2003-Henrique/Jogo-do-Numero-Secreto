@@ -25,13 +25,16 @@ function verificarChute() {
         let mensagemTentativas = `Você descobriu o número secreto com ${tentativas} ${palavraTentativa}!`;
         exibirTextoNaTela('p', mensagemTentativas);
         document.getElementById('reiniciar').removeAttribute('disabled');
+    } else if (chute == ''){
+        exibirTextoNaTela('h1', 'É preciso informar o valor do chute!');
+        return;
     } else {
         if (chute > numeroSecreto) {
             exibirTextoNaTela('h1', 'Você errou');
-            exibirTextoNaTela('p', 'O número secreto é menor');
+            exibirTextoNaTela('p', `O número secreto é menor que ${chute}`);
         } else {
             exibirTextoNaTela('h1', 'Você errou')
-            exibirTextoNaTela('p', 'O número secreto é maior');
+            exibirTextoNaTela('p', `O número secreto é maior que ${chute}`);
         }
         tentativas++;
         limparCampo();
