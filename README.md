@@ -14,7 +14,8 @@ Além disso, o jogo conta com a possibilidade de continuar jogando mesmo após r
 ![Anotação 2024-09-22 141939](https://github.com/user-attachments/assets/58745af9-28a8-44cc-a6a6-a09e5391ceef)
 
 ## ❌ Mensagem de Erro 
-![image](https://github.com/user-attachments/assets/5955e877-eb4e-4f9f-ad60-9e35c3d8730f)
+![image](https://github.com/user-attachments/assets/6fa3c600-5eb5-4436-a261-26663f6a5976)
+
 
 
 ## ✅ Mensagem de Acerto e Contador de Tentativas
